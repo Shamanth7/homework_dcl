@@ -7,3 +7,4 @@ def display():
 display()
 a=a+23
 print("ouside the function",a)
+print("note: inside the function 122 but ouside 145 how 122+23 for a ")
